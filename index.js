@@ -28,4 +28,5 @@ function newFeatureAddB(){
 function newFeatureAddC(){
     console.log('This is a new feat')
     console.log('This is a new feat C')
+    console.log('This is a new feat D')
 }
