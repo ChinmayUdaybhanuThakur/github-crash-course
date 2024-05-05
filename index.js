@@ -14,3 +14,7 @@ function isAbove18(){
     return age >= 18
 >>>>>>> parent of 353f15e (Remove age18 function)
 }
+
+function newFeatureAdd(){
+    console.log('This is a new feat')
+}
