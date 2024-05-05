@@ -1,5 +1,5 @@
 
-const name1 = 'Chinmay Thakur'
+const name1 = 'Chinmay Thakur New'
 const dob = '10/02/2004'
 
 function sayName() {
